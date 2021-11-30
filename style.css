@@ -15,27 +15,25 @@ p {
   font-family: Courier New;
 }
 
-img {
-  width: 300px;
-}
-
 h3 {
   color: black;
   font-size: 35px;
   font-family: Impact;
   background-color: silver;
-  margin-right: 10px;
+  margin-right: 15px;
 }
 
 h4 {
   font-size: 35px;
   font-family: Impact;
+  background-color: white;
+  margin-right: 10px;
 }
 
 h5 {
   font-size: 25px;
   font-family: Impact;
-}
+ }
 
 h6 {
   font-size: 20px;
@@ -60,7 +58,7 @@ h6 {
 div {
   border: 3px solid white;
   padding-left: 10px;
-  margin-left: 10px;
+  margin-right: 10px;
 }
 
 /* The animation code */
@@ -73,4 +71,8 @@ div {
   background-color: gold;
   animation-name: example;
   animation-duration: 10s;
+}
+
+img {
+  width: 200px;
 }
