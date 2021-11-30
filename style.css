@@ -75,7 +75,6 @@ div {
 
 /* The element to apply the animatioon to */
 div {
-  width: 450px;
   background-color: gold;
   animation-name: example;
   animation-duration: 10s;
