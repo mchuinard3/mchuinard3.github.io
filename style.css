@@ -2,22 +2,20 @@ body {
   background-color: gold;
 }
 
+
 h1 {
   color: black;
   font-size: 44px;
   font-family: Courier New;
-  text-align: center;
 }
 
 p {
   font-size: 20px;
   font-family: Courier New;
-  text-align: center;
 }
 
 img {
-  width: 500px;
-  text-align: center;
+  width: 300px;
 }
 
 h3 {
@@ -25,33 +23,27 @@ h3 {
   font-size: 35px;
   font-family: Impact;
   background-color: silver;
-  text-align: center;
   margin-right: 10px;
 }
 
 h4 {
   font-size: 35px;
   font-family: Impact;
-  text-align: center;
 }
 
 h5 {
   font-size: 25px;
   font-family: Impact;
-  text-align: center;
 }
 
 h6 {
   font-size: 20px;
   font-family: Impact;
-  text-align: center;
 }
 
 li {
   font-size: 18px;
   font-family: Times New Roman;
-  margin-left: 90px;
-  text-align: center;
 }
 
 .header {
