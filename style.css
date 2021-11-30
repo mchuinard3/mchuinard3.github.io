@@ -12,10 +12,12 @@ h1 {
 p {
   font-size: 20px;
   font-family: Courier New;
+  text-align: center;
 }
 
 img {
   width: 300px;
+  margin-left: 70px; 
 }
 
 h3 {
@@ -30,21 +32,25 @@ h3 {
 h4 {
   font-size: 35px;
   font-family: Impact;
+  text-align: center;
 }
 
 h5 {
   font-size: 25px;
   font-family: Impact;
+  text-align: center;
 }
 
 h6 {
   font-size: 20px;
   font-family: Impact;
+  text-align: center;
 }
 
 li {
   font-size: 18px;
   font-family: Times New Roman;
+  margin-left: 70px;
 }
 
 .header {
