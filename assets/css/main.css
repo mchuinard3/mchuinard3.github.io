@@ -404,6 +404,10 @@ header h6 + p {
   header br {
     display: none; } }
 
+    .image {
+      border-radius: 100px;
+    }
+
 /* Icon */
 .icon {
   text-decoration: none;
